@@ -92,11 +92,13 @@ Area:<input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/>
 </body>
 ```
 ## OUTPUT:
-
+![OUTPUT](./serversideprocessing%20output.png)
 
 
 ### Home Page:
-
+http://iyyanar22009120.student.saveetha.in/serverside/
+![HOMEPAGE](./serversideprocessing%20output.png)
 
 ## Result:
 
+The program for implementing server side processing is completed successfully.
